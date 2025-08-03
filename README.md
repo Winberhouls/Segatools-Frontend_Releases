@@ -8,6 +8,8 @@ Currenly supported games/softwares
 - Mercury
 - Mu3
 - CM
+- IDAC
+- IDZ
 
 ## Some notes  
 Since this project is still in an experimental phase, I highly recommend that you back up your `segatools.ini` before starting to use this front end.
