@@ -23,7 +23,10 @@ Currenly supported games/softwares
   
 ## Some notes  
 Since this project is still in an experimental phase, I highly recommend that you back up your `segatools.ini` before starting to use this front end.
-  
+
+## About the profile system
+By default, profiles created in the graphical interface are saved in `%appdata%`. If you want the profile files to be stored locally, create a text file named `portable.txt` in the program's directory. This will make profiles save in the same folder as the application.
+
 ## Screenshots
 
 <table>
