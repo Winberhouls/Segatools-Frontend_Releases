@@ -29,10 +29,18 @@ By default, profiles created in the graphical interface are saved in `%appdata%`
 
 ## Screenshots
 
+### Chusan EX Configuration
 <table>
   <tr>
-    <td><img src="media/SegatoolsFrontend_image1.png" alt="Segatools Frontend Screenshot 1" width="400"/></td>
-    <td><img src="media/SegatoolsFrontend_image2.png" alt="Segatools Frontend Screenshot 2" width="400"/></td>
+    <td><img src="media/chusan_ex/inputs_chusan.png" alt="Chusan EX Inputs Configuration" width="400"/></td>
+    <td><img src="media/chusan_ex/paths_chusan.png" alt="Chusan EX Paths Configuration" width="400"/></td>
   </tr>
 </table>
 
+### IDAC Configuration
+<table>
+  <tr>
+    <td><img src="media/idac/idac_inputs.png" alt="IDAC Inputs Configuration" width="400"/></td>
+    <td><img src="media/idac/idac_profiles.png" alt="IDAC Profiles Configuration" width="400"/></td>
+  </tr>
+</table>
